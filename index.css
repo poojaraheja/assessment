@@ -1,0 +1,270 @@
+body{
+    background-color: #041334;
+}
+.container{
+    margin-top: 50px;
+}
+.market1{
+    color: #FFFFFF;
+
+    width: 549px;
+    height: 26px;
+    top: 180px;
+    left: 104px;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.market2{
+    width: 948px;
+    height: 30px;
+    top: 226px;
+    left: 104px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+    margin-top: 10px;
+
+
+}
+.currency{
+    color: #14FF00;
+}
+.percent{
+    color: #FF0000;
+}
+.container2{
+    margin: 80px 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.container3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.container4{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #00092A;
+    padding: 40px;
+}
+.name, .price, .change, .marketcap, .chart{
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+
+}
+.name{
+    width: 63px;
+    height: 30px;
+
+}
+.price{
+    width: 52px;
+    height: 30px;
+    left: 391px;
+}
+.price1{
+    width: 93px;
+    height: 30px;
+    top: 67px;
+    left: 368px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+
+}
+.change{
+    width: 125px;
+    height: 30px;
+    left: 593px;
+
+
+}
+.change1{
+    width: 60px;
+    height: 30px;
+    top: 67px;
+    left: 624px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #14FF00;
+}
+.marketcap{
+    
+    width: 113px;
+    height: 30px;
+    left: 1066px;
+
+
+
+}
+.chart{
+    width: 59px;
+    height: 30px;
+    left: 848px;
+
+}
+.chart1{
+    width: 58px;
+    height: 22px;
+    top: 71px;
+    left: 847px;
+    border: 2px;
+
+}
+.div1{
+    display: flex;
+    flex-direction: column;
+}
+.bitcoinimg{
+    width: 40px;
+    height: 40px;
+    top: 62px;
+
+}
+.bitcoin{
+    width: 72px;
+    height: 30px;
+    top: 67px;
+    left: 63px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+
+
+}
+.button{
+    width: 200px;
+    height: 60px;
+    margin: 0 550px;
+    border-radius: 8px;
+    color: #FFFFFF;
+    background-color: aqua;
+    font-size: 24px;
+
+}
+.group90{
+    width: 764.48px;
+    height: 547px;
+    top: 1303px;
+    left: 104px;
+
+}
+.flex1{
+    width: 458px;
+    height: 108px;
+    top: 1303px;
+    left: 845px;
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 54px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+
+
+}
+.flex2{
+    width: 442px;
+    height: 72px;
+    top: 1436px;
+    left: 845px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+
+
+}
+.flex3{
+    
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    color: #FFFFFF;
+    margin-left: 15px;
+
+
+}
+.container5{
+    display: flex;
+    flex-direction: row;
+    margin-top: 15px;
+}
+.group22{
+    width: 80px;
+    height: 80px;
+    top: 1543px;
+    left: 845px;
+
+}
+.reason{
+    width: 426px;
+    height: 108px;
+    top: 1982px;
+    left: 104px;
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 54px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+
+
+}
+.container6{
+    padding: 80px;
+}
+.container7{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.container8{
+    display: flex;
+    flex-direction: row;
+    padding: 50px;
+    justify-content: space-between;
+    background-color: #00092A;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #0A1939;
+    padding: 15px;
+}
